@@ -10,12 +10,12 @@ last_name: Liao
 superuser: true
 
 # Role/position
-role: 健康老龄化副教授
+role: 公共卫生学院副教授
 
 # Organizations/Affiliations
 organizations:
   - name: 中山大学
-    url: ''
+    url: 'https://sph.sysu.edu.cn/teacher/873'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
