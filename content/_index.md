@@ -1,4 +1,4 @@
----
+d---
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Elders
         Research Group
       image:
         filename: welcome.jpg
