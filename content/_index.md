@@ -5,11 +5,10 @@ date: 2022-10-24
 type: landing
 
 sections:
-- block: ph
+- block: hero
     content:
       title: |
-        Elders
-        Research Group
+        Team philosophy
       image:
         filename: welcome.jpg
       text: |
