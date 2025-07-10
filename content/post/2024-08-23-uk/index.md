@@ -1,7 +1,7 @@
 ---
 title: ELDERS工作简讯-团队赴英国纽卡斯尔大学访问交流并参加第53届英国老年医学年会
 date: 2024-08-23
-authors: Ruini Sun
+authors: RuiniSun
 ---
 
 2024年7月1日至2024年7月6日，ELDERS团队的廖婧副教授率领三人团队前往英国纽卡斯尔大学人口健康科学研究所进行学术交流，并参加了第53届英国老年医学年会（53rd Annual Conference of the British Society of Gerontology, BSG）。
