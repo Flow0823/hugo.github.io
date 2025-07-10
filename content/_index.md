@@ -5,18 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Team philosophy
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        ELDERS Empowering Later-life inDependence via Education, Research & Support.
 
-    
   - block: hero
     content:
       title: |
