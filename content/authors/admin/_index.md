@@ -10,20 +10,20 @@ last_name: Liao
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 健康老龄化副教授
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 中山大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 痴呆干预
+  - 卫生经济
+  - 卫生管理
 
 education:
   courses:
