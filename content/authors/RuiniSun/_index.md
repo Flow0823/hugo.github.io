@@ -8,7 +8,7 @@ last_name: Sun
 
 # Username (this should match the folder name)
 authors:
-  - Ruini Sun
+  - RuiniSun
 
 # Is this the primary user of the site?
 superuser: false
