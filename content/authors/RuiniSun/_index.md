@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruini Sun
+title: RuiniSun
 
 # Full name (for SEO)
 first_name: Ruini
@@ -8,7 +8,7 @@ last_name: Sun
 
 # Username (this should match the folder name)
 authors:
-  - Ruini Sun
+  - RuiniSun
 
 # Is this the primary user of the site?
 superuser: false
