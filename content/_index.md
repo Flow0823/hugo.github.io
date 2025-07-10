@@ -5,6 +5,18 @@ date: 2022-10-24
 type: landing
 
 sections:
+- block: ph
+    content:
+      title: |
+        Elders
+        Research Group
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        ELDERS Empowering Later-life inDependence via Education, Research & Support.
+
   - block: hero
     content:
       title: |
@@ -15,7 +27,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        ELDERS focuses on the social psychological and behavioral determinants of healthy aging, the construction of community elderly health management models, and comparative research on global healthy aging and management models.
   
   - block: collection
     content:
