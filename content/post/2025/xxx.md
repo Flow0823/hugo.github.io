@@ -1,6 +1,6 @@
 ---
 title: AAAA
-date: 2025-2-02
+date: 2025-02-02
 ---
 
 Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
