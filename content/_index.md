@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-- block: hero
+  - block: hero
     content:
       title: |
         Team philosophy
@@ -16,6 +16,7 @@ sections:
         
         ELDERS Empowering Later-life inDependence via Education, Research & Support.
 
+    
   - block: hero
     content:
       title: |
