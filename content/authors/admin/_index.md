@@ -10,11 +10,11 @@ last_name: Liao
 superuser: true
 
 # Role/position
-role: 公共卫生学院副教授
+role: Associate Professor, Department of Medical Statistics
 
 # Organizations/Affiliations
 organizations:
-  - name: 中山大学
+  - name: Sun Yat-sen University
     url: 'https://sph.sysu.edu.cn/teacher/873'
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Social Epidemiology
+      institution: University College London
+      year: 2012-2015
+    - course: MSc (Hons) in Social Epidemiology
+      institution: University College London
+      year: 2011-2012
+    - course: Bachelor of Medicine in Preventive Medicine
+      institution: Sun Yat-sen University
+      year: 2006-2011
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
