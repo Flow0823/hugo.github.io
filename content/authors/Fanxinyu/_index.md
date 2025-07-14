@@ -22,10 +22,10 @@ organizations:
   - name: Sun Yat-sen University
     url: ''
 
-# 研究方向
+# 研究方向（必需）
 bio: 
 
-# 感兴趣领域
+# 感兴趣领域（必需）
 interests:
   -  Social Network Analysis
 
@@ -34,7 +34,7 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# 邮件
+# 邮件（必需）
   - icon: envelope
     icon_pack: fas
     link: "mailto:fanxy36@mail2.sysu.edu.cn"
