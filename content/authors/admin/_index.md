@@ -10,7 +10,7 @@ last_name: Liao
 superuser: true
 
 # Role/position
-role: Associate Professor, Department of Medical Statistics
+role: Associate professor, Department of Medical Statistics & Epidemiology| SYSU Global Health Institute (SGHI), Sun Yat-sen University, China 
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - 痴呆干预
-  - 卫生经济
-  - 卫生管理
+  - Psychosocial and behavioral determinants of global healthy aging
+  - Early screening, targeted intervention, and health management strategies of dementia
 
 education:
   courses:
@@ -45,15 +44,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+  - icon: researchgate
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.researchgate.net/profile/Jing-Liao-10
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +68,4 @@ user_groups:
   - Researchers
 ---
 
-Jing Liao is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Jing Liao’s research is mainly on healthy ageing, exploring the dynamic interactions between social network, health-related behaviors with physical, cognitive and social functions. Longitudinal modelling based on global ageing cohorts is used to identify key socio-determinants of healthy ageing, with potential treatment effects verified by community-based randomized controlled trials.
