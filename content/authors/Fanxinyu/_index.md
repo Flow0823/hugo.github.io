@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # Master's in Epidemiology and Health Statistics
-role: Master's in Epidemiology and Health Statistics
+role: Master in Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:
