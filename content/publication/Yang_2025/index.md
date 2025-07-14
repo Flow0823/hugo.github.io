@@ -5,7 +5,7 @@ authors:
 - ConghuiYang
 - JingyiZhi
 - YingxinXu
--  XinyuFan
+-  Fanxinyu
 # 输入名+姓的拼音，中间不能有空格
 author_notes:
 - ""
