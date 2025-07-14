@@ -1,16 +1,20 @@
 ---
+# （必需）
 title: "A Couple-Based Intervention for Chinese Older Adults With Type 2 Diabetes: A Randomized Clinical Trial"
+# （必需）
 authors:
 - admin
-- ConghuiYang
-- JingyiZhi
-- YingxinXu
+- Conghui Yang
+- Jingyi Zhi
+- Yingxin Xu
 - Xinyu Fan
-# 输入名+姓的拼音，中间不能有空格
+# 输入名+姓的拼音，中间需有空格
 author_notes:
 - ""
 - ""
 # 作者标语
+
+# （必需）
 date: "2025-01-02T00:00:00Z"
 doi: ""
 
@@ -22,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated publication name.
+# 期刊名和影响因子（必需）
 publication: "JAMA Netw Open"
 publication_IF: "9.7"
 
