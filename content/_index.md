@@ -66,7 +66,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'Journal article'
     design:
       view: citation
       columns: '1'
