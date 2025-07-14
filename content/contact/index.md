@@ -20,8 +20,8 @@ sections:
         country: China
         country_code: CHN
       coordinates:
-        latitude: '23°07'32"N'
-        longitude: '113°16'58"E'
+        latitude: '​23.1256'
+        longitude: '113.29'
       directions: Room 814, Public Health Building  
       office_hours:
         - 'Monday 10:00 to 13:00'
