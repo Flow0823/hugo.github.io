@@ -50,7 +50,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url web: https://pubmed.ncbi.nlm.nih.gov/40437351/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -64,7 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [UKCHASCAP]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
