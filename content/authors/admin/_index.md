@@ -18,7 +18,7 @@ organizations:
     url: 'https://sph.sysu.edu.cn/teacher/873'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Healthy ageing dynamics, examining social networks × health behaviors × multidimensional functioning (physical/cognitive/social). Uses longitudinal cohort modeling (global datasets) to pinpoint socio-determinants, with RCT-validated interventions.
 
 interests:
   - Psychosocial and behavioral determinants of global healthy aging
