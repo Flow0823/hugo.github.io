@@ -11,7 +11,7 @@ author_notes:
 - ""
 - ""
 # 作者标语
-date: "2015-09-01T00:00:00Z"
+date: "2025-01-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,11 +24,11 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "JAMA Netw Open"
-publication_short: ""
+publication_IF: "9.7"
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ./matched.pdf
+url_pdf: "matched.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
