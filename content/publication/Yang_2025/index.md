@@ -36,12 +36,12 @@ publication_IF: "9.7"
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "./matched.pdf"
+url_pdf: 'matched.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
