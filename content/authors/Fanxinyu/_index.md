@@ -37,7 +37,7 @@ social:
 # 邮件
   - icon: envelope
     icon_pack: fas
-    link: 'fanxy36@mail2.sysu.edu.cn'
+    link: "mailto:fanxy36@mail2.sysu.edu.cn"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -55,4 +55,4 @@ user_groups:
   - 2023
 ---
 
-# 自我介绍
+
