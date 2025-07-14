@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+        The ELDERS team is a vibrant and forward-thinking research group dedicated to innovation in the field of healthy aging. We actively welcome aspiring young scholars to join our team and contribute to advancing the science and practice of healthy aging. We also seek to foster academic exchange and interdisciplinary collaboration with researchers who share our interest in promoting the health and well-being of older adults.
       email: liaojing5@mail.sysu.edu.cn
       phone: 020-3825 2063
       address:
