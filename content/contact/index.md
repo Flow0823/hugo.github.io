@@ -21,7 +21,7 @@ sections:
         country_code: CHN
       coordinates:
         latitude: '​23.1256'
-        longitude: '113.2900'
+        longitude: '113.2829'
       directions: Room 814, Public Health Building  
       office_hours:
         - 'Monday 10:00 to 13:00'
