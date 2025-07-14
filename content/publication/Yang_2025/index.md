@@ -26,7 +26,6 @@ publication_types: ["article-journal"]
 publication: "JAMA Netw Open"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: matched.pdf
+url_pdf: ./matched.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,9 +70,9 @@ slides: example
 ---
 
 # **Abstract**
-Importance: Spousal involvement in diabetes care is recommended theoretically, but effectiveness in clinical settings and among diverse populations is unclear.
+**Importance**: Spousal involvement in diabetes care is recommended theoretically, but effectiveness in clinical settings and among diverse populations is unclear.
 
-Objective: To test the effect of a couple-based intervention among Chinese older patients with type 2 diabetes and their spouses.
+**Objective**: To test the effect of a couple-based intervention among Chinese older patients with type 2 diabetes and their spouses.
 
 Design, setting, and participants: This multicenter randomized clinical trial comprised 2 arms: a couple-based intervention arm and an individual-based control. The trial was conducted across 14 community health care centers in Guangzhou, China, between September 1, 2020, and June 30, 2022, and included patients with confirmed type 2 diabetes aged 55 years or older. Eligible partners were married to or cohabitated with the patients. Patients who previously participated in type 2 diabetes education courses were excluded, as were couples who both had diabetes, to make a clear distinction between patients and spouses. The data were analyzed between January 2023 and April 2024.
 
@@ -81,8 +80,8 @@ Interventions: The interventions consisted of 4 weekly group education sessions 
 
 Main outcomes and measures: The primary outcome was hemoglobin A1c (HbA1c) levels for patients and quality of life for their spouses. Collective efficacy and behaviors were secondary outcomes for both patients and spouses. Group comparisons were conducted using multilevel models based on an intention-to-treat approach, with outcome measures assessed for both patients and their spouses.
 
-Results: A total of 207 couples were included in the study, with 106 randomized to the intervention arm and 101 to the control arm. The mean (SD) age of patients was 66.0 (6.5) years, with 105 (50.7%) being men; spouses had similar demographics. Patients' HbA1c levels decreased in both arms over the 12-month follow-up, with no significant between-arm differences (β = -0.08; 95% CI, -0.57 to 0.42). Collective efficacy and collective behavior for patients increased after intervention but with a similar magnitude between arms. None of these measures showed between-arm differences among spouses in either arm. In subgroup analysis, decreases in HbA1c levels were constant and lasting in patients with high baseline HbA1c levels (≥8.0%) with a statistically significant difference.
+**Results**: A total of 207 couples were included in the study, with 106 randomized to the intervention arm and 101 to the control arm. The mean (SD) age of patients was 66.0 (6.5) years, with 105 (50.7%) being men; spouses had similar demographics. Patients' HbA1c levels decreased in both arms over the 12-month follow-up, with no significant between-arm differences (β = -0.08; 95% CI, -0.57 to 0.42). Collective efficacy and collective behavior for patients increased after intervention but with a similar magnitude between arms. None of these measures showed between-arm differences among spouses in either arm. In subgroup analysis, decreases in HbA1c levels were constant and lasting in patients with high baseline HbA1c levels (≥8.0%) with a statistically significant difference.
 
-Conclusions and relevance: These findings show that the overall treatment effect of the couple-based intervention was weak. However, the couple-based intervention benefited patients with poor glucose control. Patients' glucose levels, spouses' availability to provide support, and couples' collaborative preferences for mutual or individual diabetes management should be considered in tailoring treatment strategies among older adults with type 2 diabetes.
+**Conclusions and relevance**: These findings show that the overall treatment effect of the couple-based intervention was weak. However, the couple-based intervention benefited patients with poor glucose control. Patients' glucose levels, spouses' availability to provide support, and couples' collaborative preferences for mutual or individual diabetes management should be considered in tailoring treatment strategies among older adults with type 2 diabetes.
 
-Trial registration: Chinese Clinical Trial Registry Identifier: ChiCTR1900027137.
+**Trial registration**: Chinese Clinical Trial Registry Identifier: ChiCTR1900027137.
