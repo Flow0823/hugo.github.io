@@ -48,7 +48,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url web: https://pubmed.ncbi.nlm.nih.gov/39922290/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
