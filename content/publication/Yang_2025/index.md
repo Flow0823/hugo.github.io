@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "matched.pdf"
+url_pdf: "./matched.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
