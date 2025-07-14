@@ -46,7 +46,7 @@ social:
     link: 'mailto:test@example.org'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?hl=zh-CN&user=Pv6zOPMAAAAJ&view_op=list_works&sortby=title
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Jing-Liao-10
