@@ -55,8 +55,8 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Grad Students
+
+backlinks: true
 ---
 
 Research on early identification and prevention strategies for high-risk groups of Alzheimer's disease
-
-{{< cite page="../../publication/Yang_2025" view="citation" >}}
