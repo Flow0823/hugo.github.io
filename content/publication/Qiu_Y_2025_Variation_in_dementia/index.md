@@ -3,12 +3,13 @@
 title: "Variation in dementia screening outcomes: the influence of primary care providers’ occupations and knowledge, attitudes, skills"
 # （必需）
 authors:
-- admin
 - yanglinqiu  
 - xinyufan  
 - yanjuanwu  
 - shibinwang  
-- wenyantan 
+- wenyantan
+- admin
+- Yujing Zhou
 # 输入名+姓的拼音，中间需有空格
 author_notes:
 - ""
