@@ -30,7 +30,7 @@ bio: Research on early identification and prevention strategies for high-risk gr
 
 # 感兴趣领域（必需）
 interests:
-  - data mining
+  - behavioral science
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,7 +40,7 @@ social:
 # 邮件（必需）
   - icon: envelope
     icon_pack: fas
-    link: "mailto:fanxy36@mail2.sysu.edu.cn"
+    link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
