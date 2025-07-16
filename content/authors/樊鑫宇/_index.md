@@ -57,7 +57,6 @@ email: 'fanxy36@mail2.sysu.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - 2023
 ---
 
 Xinyu Fan is a master's student in Epidemiology and Medical Statistics. His current research focuses on collecting objective physiological behavioral data form older adults through wearables (like smart bands), and mining the complex associations between these behaviors and cognitive health of older adults. He is familiar with common statistical methods and their applications, and is good at mining databases. In his free time, he enjoys reading history books, watching documentaries, playing football and table tennis, and experiencing the fun of being a geek.
