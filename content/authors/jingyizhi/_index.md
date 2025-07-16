@@ -5,8 +5,8 @@
 title: Jingyi Zhi
 
 # （必需）Full name (for SEO)
-first_name: Min
-last_name: Wu
+first_name: Jingyi
+last_name: Zhi
 
 # （必需）用户名 (需与文件夹名字相同，不能有空格即可)
 authors:
@@ -40,7 +40,7 @@ social:
 # 邮件（必需）
   - icon: envelope
     icon_pack: fas
-    link: "mailto:fanxy36@mail2.sysu.edu.cn"
+    link: "mailto:zhijy3@mail2.sysu.edu.cn"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,5 +57,4 @@ user_groups:
   - Grad Students
 ---
 
-Honghao Zeng is a Master’s student in Medical Statistics at Sun Yat-sen University, with a bachelor's degree in Public Health and Preventive Medicine from the same institution. His research centers on global health, with a particular focus on estimating and quantifying the population attributable fraction (PAF) of risk factors for Alzheimer’s disease. He is open to research collaborations aimed at promoting evidence-based health interventions.
-
+Jingyi Zhi is a second-year Master's student in the Department of Epidemiology and Health Statistics at the School of Public Health, Sun Yat-sen University (SYSU). As a member of the ELDERS research team led by Professor Liao Jing, her research primarily focuses on applying health economics and behavioral economics methodologies to the design and evaluation of strategies for the early prevention and intervention management of dementia. Within the team, she is primarily responsible for organizing and coordinating field investigations. 
