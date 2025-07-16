@@ -25,8 +25,7 @@ organizations:
     url: ''
 
 # 研究方向（必需）
-bio: Research on early identification and prevention strategies for high-risk groups of Alzheimer's disease
-  -  behavioral science 
+bio: design and evaluation of strategies for the early prevention and intervention management of dementia
 
 # 感兴趣领域（必需）
 interests:
