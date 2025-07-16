@@ -1,7 +1,7 @@
 ---
 # 团队成员名+姓的拼音，名姓中间为空格，名和姓都首字母大写
 # 研究方向（必需）
-title:Honghao Zeng
+title: Honghao Zeng
 
 # Full name (for SEO)
 # 研究方向（必需）
