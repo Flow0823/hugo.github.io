@@ -3,7 +3,7 @@
 title: "Bidirectional association between clustering of health-related behaviours and depression in mid- and older-aged adults: a longitudinal study in China and Japan"
 # （必需）
 authors:
-- MinWu
+- Min
 - Yu’an Zhang
 - Claire Mawditt
 - admin
