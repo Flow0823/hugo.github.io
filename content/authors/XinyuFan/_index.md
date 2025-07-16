@@ -12,7 +12,7 @@ authors:
   - Xinyu Fan
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 # Master's in Epidemiology and Health Statistics
