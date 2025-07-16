@@ -26,7 +26,7 @@ organizations:
 
 # 研究方向（必需）
 bio: Research on early identification and prevention strategies for high-risk groups of Alzheimer's disease
-  -  behavioral science 
+
 
 # 感兴趣领域（必需）
 interests:
@@ -40,7 +40,7 @@ social:
 # 邮件（必需）
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'mailto:sunrn6@mail2.sysu.edu.cn'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
