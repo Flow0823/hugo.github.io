@@ -3,7 +3,6 @@
 title: "Validity and usability for digital cognitive assessment tools to screen for mild cognitive impairment: a randomized crossover trial"
 # （必需）
 authors:
-- admin
 - Min Wu
 - Jialin Feng
 - Ruini Sun
@@ -13,6 +12,7 @@ authors:
 - Xiaoyi Zhang
 - Yunxian Ye
 - Ni Gong
+- admin
 # 输入名+姓的拼音，中间需有空格
 author_notes:
 - ""
