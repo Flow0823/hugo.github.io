@@ -2,7 +2,7 @@
 
 # （必需）团队成员名+姓的拼音，名姓中间为空格，名和姓都首字母大写
 # title和姓名拼音之间需要有英文空格，后续都要有空格
-title: Xinyu Fan
+title: Jingyi Zhi
 
 # （必需）Full name (for SEO)
 first_name: Min
@@ -57,6 +57,5 @@ user_groups:
   - Grad Students
 ---
 
-Research on early identification and prevention strategies for high-risk groups of Alzheimer's disease
-
+Honghao Zeng is a Master’s student in Medical Statistics at Sun Yat-sen University, with a bachelor's degree in Public Health and Preventive Medicine from the same institution. His research centers on global health, with a particular focus on estimating and quantifying the population attributable fraction (PAF) of risk factors for Alzheimer’s disease. He is open to research collaborations aimed at promoting evidence-based health interventions.
 
