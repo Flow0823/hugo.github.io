@@ -9,7 +9,7 @@ authors:
 - shibinwang  
 - wenyantan
 - admin
-- Yujing Zhou
+- yujingzhou
 # 输入名+姓的拼音，中间需有空格
 author_notes:
 - ""
