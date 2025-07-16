@@ -7,6 +7,7 @@ authors:
 - Jingyi Zhi
 - Yingxin Xu
 - Xinyu Fan
+- Min
 - admin
 # 输入名+姓的拼音，中间需有空格
 author_notes:
