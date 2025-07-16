@@ -5,7 +5,7 @@ title: Study on the Community-Based Social Embedding Implementation Strategy for
 date: '2023-06-01T13:00:00Z'
 date_end: '2025-06-01T15:00:00Z'
 authors:
-- Min
+- MinWu
 
 ---
 
