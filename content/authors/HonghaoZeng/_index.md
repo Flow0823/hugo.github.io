@@ -11,7 +11,7 @@ last_name: Zeng
 # Username (this should match the folder name)
 # 研究方向（必需）
 authors:
-  - Honghao Zeng
+  - HonghaoZeng
 
 # Is this the primary user of the site?
 superuser: false
