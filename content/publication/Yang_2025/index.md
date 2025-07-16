@@ -3,6 +3,8 @@
 title: "A Couple-Based Intervention for Chinese Older Adults With Type 2 Diabetes: A Randomized Clinical Trial"
 # （必需）
 authors:
+- conghuiyang
+- yingxinxu
 - admin
 # 输入名+姓的拼音，中间需有空格
 author_notes:
