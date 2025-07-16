@@ -4,7 +4,7 @@ title: "Variation in dementia screening outcomes: the influence of primary care 
 # （必需）
 authors:
 - Yanglin Qiu  
-- Xinyu Fan  
+- XinyuFan  
 - Yanjuan Wu  
 - Shibin Wang  
 - Wenyan Tan
