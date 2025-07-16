@@ -3,9 +3,6 @@
 title: "A Couple-Based Intervention for Chinese Older Adults With Type 2 Diabetes: A Randomized Clinical Trial"
 # （必需）
 authors:
-- Conghui Yang
-- Jingyi Zhi
-- Yingxin Xu
 - fanxinyu
 - Min
 - admin
