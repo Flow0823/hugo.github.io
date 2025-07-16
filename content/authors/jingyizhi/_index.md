@@ -4,12 +4,12 @@
 title: Jingyi Zhi
 
 # （必需）Full name (for SEO)
-first_name: 
-last_name: 
+first_name: Jingyi
+last_name: Zhi
 
 # （必需）用户名 (需与文件夹名字相同，不能有空格即可)
 authors:
-  - zhijingyi
+  - jingyizhi
 
 
 # Is this the primary user of the site?
