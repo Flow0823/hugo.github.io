@@ -56,7 +56,8 @@ email: ''
 user_groups:
   - Grad Students
 
-backlinks: true
+backlinks: false
+profile: true
 ---
 
 Research on early identification and prevention strategies for high-risk groups of Alzheimer's disease
