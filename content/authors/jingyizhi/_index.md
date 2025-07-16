@@ -9,7 +9,7 @@ last_name:
 
 # （必需）用户名 (需与文件夹名字相同，不能有空格即可)
 authors:
-- jingyizhi
+  - jingyizhi
 
 
 # Is this the primary user of the site?
