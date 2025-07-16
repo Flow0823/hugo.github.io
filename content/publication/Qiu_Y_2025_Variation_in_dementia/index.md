@@ -3,12 +3,12 @@
 title: "Variation in dementia screening outcomes: the influence of primary care providers’ occupations and knowledge, attitudes, skills"
 # （必需）
 authors:
-- admin
 - Yanglin Qiu  
 - Xinyu Fan  
 - Yanjuan Wu  
 - Shibin Wang  
-- Wenyan Tan 
+- Wenyan Tan
+- admin
 # 输入名+姓的拼音，中间需有空格
 author_notes:
 - ""
@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "./matched.pdf"
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
