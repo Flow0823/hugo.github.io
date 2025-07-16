@@ -1,15 +1,15 @@
 ---
 # （必需）团队成员名+姓的拼音，名姓中间为空格，名和姓都首字母大写
 
-title: Xinyu Fan
+title: Xiaoxi Dong
 
 # （必需）Full name (for SEO)
-first_name: Xinyu
-last_name: Fan
+first_name: Xiaoxi
+last_name: Dong
 
 # （必需）用户名 (需与文件夹名字相同，不能有空格即可)
 authors:
-  - XinyuFan
+  - Dongxiaoxi
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,12 +25,11 @@ organizations:
 
 # 研究方向（必需）
 bio: 
-  -  Time-use epidemiology; 
-  -  Time series data imputation
+  - the impacts of social determinants on the health trajectories of elderly populations
 
 # 感兴趣领域（必需）
 interests:
-  - data mining
+  - anti-inflammatory mechanisms of dietary bioactive components
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,7 +39,7 @@ social:
 # 邮件（必需）
   - icon: envelope
     icon_pack: fas
-    link: "mailto:fanxy36@mail2.sysu.edu.cn"
+    link: "mailto:dongxx7@mail2.sysu.edu.cn"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -49,16 +48,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'fanxy36@mail2.sysu.edu.cn'
+email: 'dongxx7@mail2.sysu.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - 2023
+  - 2025
 ---
 
-（自我介绍，需删除括号里面的字）
-Xinyu Fan is a master's student in Epidemiology and Medical Statistics. His current research focuses on collecting objective physiological behavioral data form older adults through wearables (like smart bands), and mining the complex associations between these behaviors and cognitive health of older adults. He is familiar with common statistical methods and their applications, and is good at mining databases. In his free time, he enjoys reading history books, watching documentaries, playing football and table tennis, and experiencing the fun of being a geek.
+Xiaoxi Dong is a graduate student whose research focuses on the influence of social determinants on the health trajectories of older adults. By combining longitudinal cohort modeling with community-based randomized controlled trials, she aims to develop early risk prediction models for Alzheimer’s disease. Her work applies innovative prospective statistical methodologies to optimize intervention strategies, ultimately contributing to the promotion of healthy aging.
 
 
