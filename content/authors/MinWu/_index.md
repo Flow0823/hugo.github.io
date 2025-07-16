@@ -59,4 +59,4 @@ user_groups:
 
 Research on early identification and prevention strategies for high-risk groups of Alzheimer's disease
 
-{{< cite page="../../publication" view="citation" >}}
+{{< cite page="../../publication/Yang_2025" view="citation" >}}
