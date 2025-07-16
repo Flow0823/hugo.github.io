@@ -6,7 +6,7 @@ authors:
 - Conghui Yang
 - Jingyi Zhi
 - Yingxin Xu
-- XinyuFan
+- fanxinyu
 - Min
 - admin
 # 输入名+姓的拼音，中间需有空格
