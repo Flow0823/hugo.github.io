@@ -30,7 +30,7 @@ bio: Research on early identification and prevention strategies for high-risk gr
 
 # 感兴趣领域（必需）
 interests:
-  - data mining
+  - health economics and behavioral economics methodologies
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
