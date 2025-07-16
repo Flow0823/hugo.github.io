@@ -9,6 +9,9 @@ last_name: Liao
 # Is this the primary user of the site?
 superuser: true
 
+authors:
+- admin
+
 # Role/position
 role: Associate professor, Department of Medical Statistics & Epidemiology| SYSU Global Health Institute (SGHI), Sun Yat-sen University, China 
 
