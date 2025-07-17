@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: ELDERS Research Group
+date: 2025-07-17
 type: landing
 
 sections:
@@ -9,7 +9,7 @@ sections:
   - block: hero
     content:
       title: |
-        Elders
+        ELDERS
         Research Group
       image:
         filename: welcome.jpg
@@ -17,25 +17,7 @@ sections:
         <br>
         
         ELDERS focuses on the social psychological and behavioral determinants of healthy aging, the construction of community elderly health management models, and comparative research on global healthy aging and management models.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+
 
   # 
   # - block: markdown
@@ -60,7 +42,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Articles
       text: ""
       count: 5
       filters:
@@ -69,6 +51,25 @@ sections:
         publication_type: 'article-journal'
     design:
       view: citation
+      columns: '1'
+    
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
       columns: '1'
 
   - block: markdown
