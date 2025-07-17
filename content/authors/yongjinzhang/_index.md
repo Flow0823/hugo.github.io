@@ -17,7 +17,7 @@ superuser: false
 
 # Role/position
 # Master's in Epidemiology and Health Statistics
-role: Master in Epidemiology and Health Statistics
+role: Master of Science in Epidemiology and Biostatistics, Class of 2025
 
 # Organizations/Affiliations
 organizations:
@@ -42,14 +42,7 @@ social:
     icon_pack: fas
     link: "mailto:15198204013@163.com"
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
