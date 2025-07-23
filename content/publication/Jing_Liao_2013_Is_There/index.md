@@ -9,11 +9,22 @@ authors:
 
 # （必需）
 date: "2013-12-03T00:00:00Z"
-doi: "10.1371/journal.pone.0081020
+doi: "10.1371/journal.pone.0081020"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
+# 期刊名和影响因子（必需）
+publication: "PLOS One"
+publication_IF: "3.75"
+
+tags:
+- Source Themes
+featured: false
 
 ---
 
