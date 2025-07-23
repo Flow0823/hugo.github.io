@@ -97,4 +97,11 @@ sections:
           icon_pack: fas
           name: Social Connectivity
           description: Community-based participatory research
+    design:
+      columns: "3"  # 三栏布局
+      background: "white"  # 白色背景
+      card:
+        text_align: left  # 左对齐文本
+        border_radius: 12  # 卡片圆角像素
+        padding: 20  # 内边距
 ---
