@@ -19,16 +19,27 @@ sections:
         ELDERS focuses on the social psychological and behavioral determinants of healthy aging, the construction of community elderly health management models, and comparative research on global healthy aging and management models.
     
 
-  - block: markdown
-    id: section-1
+  - block: research
     content:
-      title: Section 1
-      subtitle: A subtitle2
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      subtitle: A subtitle3
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    design:
-      view: showcase
+      title: "Research Areas"
+      items:
+        - title: "Deep Learning & Brain-inspired Intelligence"
+          text: |
+            Focusing on the intersection of deep learning, artificial intelligence, and neuroscience, we build multimodal biological foundation models...
+          image:
+            filename: welcome.jpg
+            
+        - title: "Neurobiology"
+          text: |
+            Studying the structure and dynamic properties of neuronal networks and their impact on information processing...
+          image:
+            filename: welcome.jpg
+            
+        - title: "Multimodal Imaging Methods"
+          text: |
+            Developing and applying multimodal imaging technologies, combined with AI analysis...
+          image:
+            filename: welcome.jpg
 
   # 
   # - block: markdown
