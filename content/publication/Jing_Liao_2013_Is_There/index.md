@@ -23,12 +23,9 @@ publication_types: ["article-journal"]
 publication: "PLOS One"
 publication_IF: "3.75"
 
-
 tags:
 - Source Themes
 featured: false
-
-
 ---
 
 
