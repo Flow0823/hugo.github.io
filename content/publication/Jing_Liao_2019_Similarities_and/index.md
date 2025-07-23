@@ -3,14 +3,14 @@
 title: "Similarities and differences in health-related behavior clustering among older adults in Eastern and Western countries: A latent class analysis of global aging cohorts"
 # 名姓全称的拼接，英文名也需小写无空格（必需）
 authors:
--admin
--clairemawditt
--shaunscholes
--wentianlu
--makiumeda
--gracielamunizterrera
--yuantaohao
--shannonmejía
+- admin
+- clairemawditt
+- shaunscholes
+- wentianlu
+- makiumeda
+- gracielamunizterrera
+- yuantaohao
+- shannonmejía
 
 # （必需）
 date: "2019-06-12T00:00:00Z"
