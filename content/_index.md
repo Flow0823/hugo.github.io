@@ -102,5 +102,8 @@ sections:
           name: Social Connectivity
           description: Community-based participatory research
           text: "Focusing on the intersection of deep learning, artificial intelligence, and neuroscience, we build multimodal biological foundation models, promote innovative AI applications in life sciences, medicine, and brain science, and explore brain-inspired mechanisms of intelligent systems."
+    
+    design:
+      columns: '3'
 
 ---
