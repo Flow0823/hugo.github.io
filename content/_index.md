@@ -83,18 +83,18 @@ sections:
 
   - block: features
     content:
-    title: "Research Pillars"
-    items:
-      - icon: brain
-        icon_pack: fas
-        name: Cognitive Aging
-        description: Social neuroscience approaches
-      - icon: heartbeat
-        icon_pack: fas
-        name: Behavioral Interventions
-        description: RCTs for lifestyle modification
-      - icon: users
-        icon_pack: fas
-        name: Social Connectivity
-        description: Community-based participatory research
+      title: "Research Pillars"
+      items:
+        - icon: brain
+          icon_pack: fas
+          name: Cognitive Aging
+          description: Social neuroscience approaches
+        - icon: heartbeat
+          icon_pack: fas
+          name: Behavioral Interventions
+          description: RCTs for lifestyle modification
+        - icon: users
+          icon_pack: fas
+          name: Social Connectivity
+          description: Community-based participatory research
 ---
