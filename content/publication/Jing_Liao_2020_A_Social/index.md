@@ -3,13 +3,13 @@
 title: "A Social Group-Based Information-Motivation-Behavior Skill Intervention to Promote Acceptability and Adoption of Wearable Activity Trackers Among Middle-Aged and Older Adults: Cluster Randomized Controlled Trial"
 # 名姓全称的拼接，英文名也需小写无空格（必需）
 authors:
--admin
--haiyanxiao
--xueqili
--shuhuasun
--shixingliu
--yungjenyang
--dongromanxu
+- admin
+- haiyanxiao
+- xueqili
+- shuhuasun
+- shixingliu
+- yungjenyang
+- dongromanxu
 
 # （必需）
 date: "2020-04-09T00:00:00Z"
