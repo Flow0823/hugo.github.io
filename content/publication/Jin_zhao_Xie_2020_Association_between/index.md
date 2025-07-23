@@ -3,10 +3,10 @@
 title: "Association between rural-to-urban migration and the cognitive aging trajectories of older Chinese adults: results from a prospective cohort analysis"
 # 名姓全称的拼接，英文名也需小写无空格（必需）
 authors:
--jinzhaoxie
--admin
--jingzhang
--jinggu
+- jinzhaoxie
+- admin
+- jingzhang
+- jinggu
 
 # （必需）
 date: "2020-09-21T00:00:00Z"
