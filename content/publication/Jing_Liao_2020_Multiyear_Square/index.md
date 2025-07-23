@@ -3,9 +3,9 @@
 title: "Multiyear Square Dancing Is Associated With Superior Mental Processing Capacity But Not Memory in Middle-Aged and Older Chinese Women: A Cross-Sectional Propensity Score"
 # 名姓全称的拼接，英文名也需小写无空格（必需）
 authors:
--admin
--yungjenyang
--dongromanxu
+- admin
+- yungjenyang
+- dongromanxu
 
 # （必需）
 date: "2020-01-01T00:00:00Z"
