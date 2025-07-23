@@ -89,14 +89,20 @@ sections:
           icon_pack: fas
           name: Cognitive Aging
           description: Social neuroscience approaches
+          text: "Focusing on the intersection of deep learning, artificial intelligence, and neuroscience, we build multimodal biological foundation models, promote innovative AI applications in life sciences, medicine, and brain science, and explore brain-inspired mechanisms of intelligent systems."
+
         - icon: heartbeat
           icon_pack: fas
           name: Behavioral Interventions
           description: RCTs for lifestyle modification
+          text: "Focusing on the intersection of deep learning, artificial intelligence, and neuroscience, we build multimodal biological foundation models, promote innovative AI applications in life sciences, medicine, and brain science, and explore brain-inspired mechanisms of intelligent systems."
+
         - icon: users
           icon_pack: fas
           name: Social Connectivity
           description: Community-based participatory research
+          text: "Focusing on the intersection of deep learning, artificial intelligence, and neuroscience, we build multimodal biological foundation models, promote innovative AI applications in life sciences, medicine, and brain science, and explore brain-inspired mechanisms of intelligent systems."
+
     design:
       columns: "3"  # 三栏布局
       background: "white"  # 白色背景
