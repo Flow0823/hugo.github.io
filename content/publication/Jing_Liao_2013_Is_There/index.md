@@ -1,6 +1,6 @@
 ---
 # （必需）
-title: "Is There an Association between Work Stress and Diurnal Cortisol Patterns"
+title: "Is There an Association between Work Stress"
 # 名姓全称的拼接，英文名也需小写无空格（必需）
 authors:
 - admin
