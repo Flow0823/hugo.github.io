@@ -23,11 +23,12 @@ sections:
     id: section-1
     content:
       title: Section 1
-      subtitle: A subtitle
+      subtitle: A subtitle2
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      subtitle: A subtitle
+      subtitle: A subtitle3
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    
+    design:
+      view: showcase
 
   # 
   # - block: markdown
