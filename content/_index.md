@@ -18,22 +18,20 @@ sections:
         
         ELDERS focuses on the social psychological and behavioral determinants of healthy aging, the construction of community elderly health management models, and comparative research on global healthy aging and management models.
     
-  - block: showcase
+
+  - block: markdown
+    id: section-1
     content:
-      title: "Research"
-      items:
-        - icon: brain
-          icon_pack: fas
-          name: High-risk behaviors
-          description: Social neuroscience approaches
-        - icon: heartbeat
-          icon_pack: fas
-          name: Social support
-          description: RCTs for lifestyle modification
-        - icon: users
-          icon_pack: fas
-          name: Primary care
-          description: Community-based participatory research
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  - block: markdown
+    id: section-2
+    content:
+      title: Section 2
+      subtitle: A subtitle
+      text: Add your Section 2 content here...
+    
 
   # 
   # - block: markdown
