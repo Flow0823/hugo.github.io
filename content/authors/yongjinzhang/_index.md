@@ -17,7 +17,7 @@ superuser: false
 
 # Role/position
 # Master's in Epidemiology and Health Statistics
-role: Master of Science in Epidemiology and Biostatistics, Class of 2025
+role: Master of Science in Epidemiology and Biostatistics, 2022-2025
 
 # Organizations/Affiliations
 organizations:
