@@ -3,8 +3,8 @@
 title: "Primary care providers’ perceptions and experiences of family-centered care for older adults: a qualitative study of community-based diabetes management in China"
 # 名姓全称的拼接，英文名也需小写无空格（必需）
 authors:
--jiong tu
--admin
+- jiongtu
+- admin
 
 # （必需）
 date: "2021-07-23T00:00:00Z"
