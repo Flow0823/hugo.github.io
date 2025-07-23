@@ -3,7 +3,7 @@
 title: "Validity and usability for digital cognitive assessment tools to screen for mild cognitive impairment: a randomized crossover trial"
 # （必需）
 authors:
-- MinWu
+- minwu
 - jialinfeng
 - ruinisun
 - shangyangzhang
