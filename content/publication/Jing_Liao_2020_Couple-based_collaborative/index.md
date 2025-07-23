@@ -3,17 +3,17 @@
 title: "Couple-based collaborative management model of type 2 diabetes mellitus for community-dwelling older adults in China: protocol for a hybrid type 1 randomized controlled trial"
 # 名姓全称的拼接，英文名也需小写无空格（必需）
 authors:
--admin
--xuejiwu
--caixuanwang
--xiaochunxiao
--yiyuancai
--minwu
--yuyangliu
--xiongfeichen
--shaolongwu
--yungjenyang
--dongromanxu
+- admin
+- xuejiwu
+- caixuanwang
+- xiaochunxiao
+- yiyuancai
+- minwu
+- yuyangliu
+- xiongfeichen
+- shaolongwu
+- yungjenyang
+- dongromanxu
 
 # （必需）
 date: "2020-03-30T00:00:00Z"
