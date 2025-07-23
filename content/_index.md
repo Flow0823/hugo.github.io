@@ -17,7 +17,23 @@ sections:
         <br>
         
         ELDERS focuses on the social psychological and behavioral determinants of healthy aging, the construction of community elderly health management models, and comparative research on global healthy aging and management models.
-
+    
+  - block: markdown
+    content:
+      title: "Research"
+      items:
+        - icon: brain
+          icon_pack: fas
+          name: High-risk behaviors
+          description: Social neuroscience approaches
+        - icon: heartbeat
+          icon_pack: fas
+          name: Social support
+          description: RCTs for lifestyle modification
+        - icon: users
+          icon_pack: fas
+          name: Primary care
+          description: Community-based participatory research
 
   # 
   # - block: markdown
@@ -81,29 +97,7 @@ sections:
     design:
       columns: '1'
 
-  - block: features
-    content:
-      title: "Research Pillars"
-      items:
-        - icon: brain
-          icon_pack: fas
-          name: Cognitive Aging
-          description: Social neuroscience approaches
-          text: "Focusing on the intersection of deep learning, artificial intelligence, and neuroscience, we build multimodal biological foundation models, promote innovative AI applications in life sciences, medicine, and brain science, and explore brain-inspired mechanisms of intelligent systems."
 
-        - icon: heartbeat
-          icon_pack: fas
-          name: Behavioral Interventions
-          description: RCTs for lifestyle modification
-          text: "Focusing on the intersection of deep learning, artificial intelligence, and neuroscience, we build multimodal biological foundation models, promote innovative AI applications in life sciences, medicine, and brain science, and explore brain-inspired mechanisms of intelligent systems."
 
-        - icon: users
-          icon_pack: fas
-          name: Social Connectivity
-          description: Community-based participatory research
-          text: "Focusing on the intersection of deep learning, artificial intelligence, and neuroscience, we build multimodal biological foundation models, promote innovative AI applications in life sciences, medicine, and brain science, and explore brain-inspired mechanisms of intelligent systems."
-    
-    design:
-      columns: '3'
 
 ---
