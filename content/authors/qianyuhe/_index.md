@@ -26,7 +26,7 @@ organizations:
 
 # 研究方向（必需）
 # bio为一行，不能
-bio:chronic illness management and health phychology
+bio: chronic illness management and health phychology
 
 # 感兴趣领域（必需）
 interests:
