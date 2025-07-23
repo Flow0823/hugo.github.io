@@ -18,7 +18,7 @@ sections:
         
         ELDERS focuses on the social psychological and behavioral determinants of healthy aging, the construction of community elderly health management models, and comparative research on global healthy aging and management models.
     
-  - block: markdown
+  - block: showcase
     content:
       title: "Research"
       items:
